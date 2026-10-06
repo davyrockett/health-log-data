@@ -1,0 +1,112 @@
+{
+  "app": "health-log",
+  "format": 1,
+  "weights": [
+    {
+      "id": "omplp723urxzp5rqfe80",
+      "lbs": 138.4,
+      "date": "2026-10-06",
+      "note": "",
+      "updatedAt": "2026-10-06T22:55:01.785Z"
+    },
+    {
+      "id": "w-2026-01-01",
+      "lbs": 142,
+      "date": "2026-01-01",
+      "note": "",
+      "updatedAt": "2026-10-06T22:56:49.742Z"
+    },
+    {
+      "id": "w-2026-01-06",
+      "lbs": 139.5,
+      "date": "2026-01-06",
+      "note": "",
+      "updatedAt": "2026-10-06T22:56:49.752Z"
+    },
+    {
+      "id": "w-2026-03-01",
+      "lbs": 146,
+      "date": "2026-03-01",
+      "note": "",
+      "updatedAt": "2026-10-06T22:56:49.762Z"
+    },
+    {
+      "id": "w-2026-05-15",
+      "lbs": 149,
+      "date": "2026-05-15",
+      "note": "",
+      "updatedAt": "2026-10-06T22:56:49.770Z"
+    },
+    {
+      "id": "w-2026-08-05",
+      "lbs": 151,
+      "date": "2026-08-05",
+      "note": "Started Wegovy 0.25mg",
+      "updatedAt": "2026-10-06T22:56:49.779Z"
+    },
+    {
+      "id": "w-2026-09-30",
+      "lbs": 141,
+      "date": "2026-09-30",
+      "note": "Upped Wegovy to 0.5mg",
+      "updatedAt": "2026-10-06T22:56:49.786Z"
+    }
+  ],
+  "meds": [
+    {
+      "id": "adderall",
+      "name": "Adderall",
+      "dose": "Up to 40 mg",
+      "frequency": "Daily",
+      "started": "2008-01-01",
+      "ended": "",
+      "updatedAt": "2026-10-06T23:07:05.945Z"
+    },
+    {
+      "id": "citalopram",
+      "name": "Citalopram",
+      "dose": "20 mg",
+      "frequency": "Daily",
+      "started": "2013-01-01",
+      "ended": "",
+      "updatedAt": "2026-10-06T23:06:02.857Z"
+    },
+    {
+      "id": "lamotrigine",
+      "name": "Lamotrigine",
+      "dose": "100 mg",
+      "frequency": "Daily",
+      "started": "2013-01-01",
+      "ended": "",
+      "updatedAt": "2026-10-06T23:06:02.846Z"
+    },
+    {
+      "id": "trazodone",
+      "name": "Trazodone",
+      "dose": "25 mg",
+      "frequency": "Daily",
+      "started": "2013-01-01",
+      "ended": "",
+      "updatedAt": "2026-10-06T23:06:02.870Z"
+    },
+    {
+      "id": "wegovy-025",
+      "name": "Wegovy",
+      "dose": "0.25 mg",
+      "frequency": "Weekly",
+      "started": "2026-08-05",
+      "ended": "2026-09-30",
+      "updatedAt": "2026-10-06T23:03:32.260Z"
+    },
+    {
+      "id": "wegovy-05",
+      "name": "Wegovy",
+      "dose": "0.5 mg",
+      "frequency": "Weekly",
+      "started": "2026-09-30",
+      "ended": "",
+      "updatedAt": "2026-10-06T23:02:21.131Z"
+    }
+  ],
+  "deleted": []
+}
