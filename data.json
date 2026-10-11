@@ -108,5 +108,14 @@
       "updatedAt": "2026-10-06T23:02:21.131Z"
     }
   ],
+  "appts": [
+    {
+      "id": "6222f4c0-00d0-4a53-9b51-89ae5fa33951",
+      "date": "2026-10-07",
+      "reason": "Bump on head",
+      "results": "Heating pad and antibiotics",
+      "updatedAt": "2026-10-11T19:30:35.777Z"
+    }
+  ],
   "deleted": []
 }
