@@ -117,5 +117,32 @@
       "updatedAt": "2026-10-11T19:30:35.777Z"
     }
   ],
-  "deleted": []
+  "heads": [
+    {
+      "id": "a413518d-cbf4-4c3a-ad35-5f39626a543f",
+      "date": "2026-10-16",
+      "days": [
+        "2026-10-16",
+        "2026-10-17"
+      ],
+      "time": "15:15",
+      "pain": 7,
+      "duration": "2 days",
+      "medicine": "Ibuprofen",
+      "note": "Ice pack",
+      "updatedAt": "2026-10-19T02:28:01.334Z"
+    }
+  ],
+  "deleted": [
+    {
+      "id": "7b355235-c058-426f-bf4c-389da4058c18",
+      "store": "heads",
+      "deletedAt": "2026-10-19T02:23:30.478Z"
+    },
+    {
+      "id": "a8178b17-511b-4b49-989d-0efa43ebce2c",
+      "store": "heads",
+      "deletedAt": "2026-10-19T02:27:26.267Z"
+    }
+  ]
 }
