@@ -98,6 +98,15 @@
       "updatedAt": "2026-10-06T23:07:05.945Z"
     },
     {
+      "id": "bfd4d7d4-6b68-4f09-b1a6-0309ff292592",
+      "name": "Wegovy",
+      "dose": "1 mg",
+      "frequency": "Weekly",
+      "started": "2026-10-28",
+      "ended": "",
+      "updatedAt": "2026-11-06T17:00:16.206Z"
+    },
+    {
       "id": "citalopram",
       "name": "Citalopram",
       "dose": "20 mg",
