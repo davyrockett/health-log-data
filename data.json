@@ -170,6 +170,20 @@
   ],
   "heads": [
     {
+      "id": "446d0c35-1063-4043-a819-8f8dff584f1a",
+      "date": "2026-11-04",
+      "days": [
+        "2026-11-04",
+        "2026-11-05"
+      ],
+      "time": "",
+      "pain": 7,
+      "duration": "",
+      "medicine": "",
+      "note": "Started before SOS gig",
+      "updatedAt": "2026-11-10T19:39:38.706Z"
+    },
+    {
       "id": "5c2fad48-acce-4a32-85f7-1f852b258ac0",
       "date": "2026-11-04",
       "days": [
